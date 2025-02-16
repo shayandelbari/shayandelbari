@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on a project I got on `Upwork`.
 - 🌱 I’m currently learning `Rust`.
 
+![Shayan's Stats](https://github-readme-stats.vercel.app/api?username=shayandelbari&show_icons=true&theme=radical)
+![Shayan's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shayandelbari\&layout=compact)
