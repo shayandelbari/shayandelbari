@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+My name is Shayan and Welcome to my GitHub Profile
 <!--
 **shayandelbari/shayandelbari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,9 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Shayan's Stats](https://github-readme-stats.vercel.app/api?username=shayandelbari&show_icons=true&theme=dark)
+![Shayan's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shayandelbari\&layout=compact&theme=dark)
 
 - 🔭 I’m currently working on a project I got on `Upwork`.
 - 🌱 I’m currently learning `Rust`.
 
-![Shayan's Stats](https://github-readme-stats.vercel.app/api?username=shayandelbari&show_icons=true&theme=dark)
-![Shayan's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shayandelbari\&layout=compact&theme=dark)
+![Shayan's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shayandelbari&layout=compact&theme=dark)
